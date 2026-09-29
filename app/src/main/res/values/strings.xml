@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">QuickQR</string>
+
+    <!-- Scanner -->
+    <string name="scan_hint">Point your camera at a QR code or barcode</string>
+    <string name="camera_permission_message">QuickQR needs camera access to scan codes live. You can still scan photos from your gallery without it.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="scan_from_gallery_instead">Scan a Photo Instead</string>
+    <string name="toggle_flash">Toggle flashlight</string>
+    <string name="switch_camera">Switch camera</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="clear_all">Clear All</string>
+    <string name="empty_history">Your scanned codes will show up here</string>
+    <string name="empty_favorites">No favorites yet \u2014 tap the star on a scan to save it here</string>
+    <string name="search_history_hint">Search history</string>
+    <string name="favorites_only">Favorites only</string>
+    <string name="favorite">Favorite</string>
+    <string name="more_actions">More actions</string>
+    <string name="copy_result">Copy</string>
+    <string name="share_result">Share</string>
+    <string name="open_url">Open Link</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_scan_title">Delete scan</string>
+    <string name="delete_scan_message">Remove this item from your history?</string>
+
+    <!-- Generator: type chips -->
+    <string name="create_qr_title">Create a QR Code</string>
+    <string name="chip_text">Text</string>
+    <string name="chip_url">URL</string>
+    <string name="chip_wifi">Wi\u2011Fi</string>
+    <string name="chip_email">Email</string>
+    <string name="chip_phone">Phone</string>
+    <string name="chip_contact">Contact</string>
+    <string name="chip_location">Location</string>
+    <string name="chip_event">Event</string>
+    <string name="chip_social">Social</string>
+
+    <!-- Generator: field hints -->
+    <string name="content_hint">Type or paste content here</string>
+    <string name="hint_url">Website URL</string>
+    <string name="hint_wifi_ssid">Network name (SSID)</string>
+    <string name="hint_wifi_password">Password</string>
+    <string name="hint_wifi_security">Security type</string>
+    <string name="hint_wifi_hidden">Hidden network</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_email_to">Recipient email</string>
+    <string name="hint_email_subject">Subject (optional)</string>
+    <string name="hint_email_body">Message (optional)</string>
+    <string name="hint_contact_name">Full name</string>
+    <string name="hint_contact_phone">Phone (optional)</string>
+    <string name="hint_contact_email">Email (optional)</string>
+    <string name="hint_contact_org">Organization (optional)</string>
+    <string name="hint_latitude">Latitude</string>
+    <string name="hint_longitude">Longitude</string>
+    <string name="hint_location_label">Label (optional)</string>
+    <string name="use_current_location">Use current location</string>
+    <string name="hint_event_title">Event title</string>
+    <string name="hint_event_location">Location (optional)</string>
+    <string name="hint_event_description">Description (optional)</string>
+    <string name="event_start_not_set">Start: not set</string>
+    <string name="event_end_not_set">End: not set (defaults to 1 hour after start)</string>
+    <string name="event_start_set">Start: %1$s</string>
+    <string name="event_end_set">End: %1$s</string>
+    <string name="pick_start_date_time">Pick Start Date &amp; Time</string>
+    <string name="pick_end_date_time">Pick End Date &amp; Time</string>
+    <string name="hint_social_platform">Platform</string>
+    <string name="hint_social_handle">Username / handle</string>
+
+    <string name="generate_qr">Generate QR Code</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="generated_qr_description">Generated QR code</string>
+
+    <!-- Result -->
+    <string name="result_title">Scan Result</string>
+    <string name="wifi_details">Network: %1$s\nPassword: %2$s\nSecurity: %3$s</string>
+</resources>

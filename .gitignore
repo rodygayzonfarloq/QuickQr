@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/build
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Signing material - never commit
+keystore.properties
+keystore-base64.txt
+secrets.txt
+*.b64
+*.p12
+*.pfx
+play-service-account*.json
